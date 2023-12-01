@@ -231,7 +231,7 @@ hirakawa0215@gmail.com
 
 <table>
   <tr>
-    <td>    
+    <td align = "center">    
       <img src="./assets/123.gif"/>
     </td>
   </tr>
@@ -241,7 +241,7 @@ hirakawa0215@gmail.com
     </td>
   </tr>
   <tr>
-    <td>    
+    <td align="center">    
       <img src="./assets/mobile (2).jpg"/>
     </td>
   </tr>  
@@ -430,9 +430,6 @@ hirakawa0215@gmail.com
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=happyday1996&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=happyday1996&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 
