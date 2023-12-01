@@ -1,7 +1,7 @@
 <!--suppress HtmlDeprecatedAttribute -->
 <h1 align="center">
-    Hi <img src="./assets/Hi.gif" width="30px"> <br>
-    My Name is <b>Nakamoto Araki</b>
+    Hello <img src="./assets/Hi.gif" width="30px"> <br>
+    <b>My History</b>
 </h1>
 
 
