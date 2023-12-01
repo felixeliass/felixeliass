@@ -5,7 +5,7 @@
 </h1>
 
 
-<div align="center">
+<div align="">
 
 <br>
 
@@ -232,17 +232,23 @@ hirakawa0215@gmail.com
 <table>
   <tr>
     <td>    
-      <img src="./assets/web_mern.mp4"/>
+      <img src="./assets/123.gif"/>
     </td>
+  </tr>
+  <tr>
     <td>    
       <img src="./assets/mobile (1).jpg"/>
     </td>
+  </tr>
+  <tr>
     <td>    
       <img src="./assets/mobile (2).jpg"/>
     </td>
+  </tr>  
+  <tr>
     <td>    
       <img src="./assets/chatbot.jpg"/>
-    </td>
+    </td>  
   </tr>
 </table>
 
@@ -251,6 +257,7 @@ hirakawa0215@gmail.com
 
 
 ## My personal values and work ethic
+<div>
 ✨ I want to build strong relationships with my clients.
 
 ✨ I believe that a good working relationship is built on mutual trust and respect.
@@ -316,7 +323,7 @@ hirakawa0215@gmail.com
     ✔Stripe 
     ✔PayPal
         
-
+</div>
 
 <br/>  
 
