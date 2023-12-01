@@ -253,7 +253,9 @@ hirakawa0215@gmail.com
 
 ## My personal values and work ethic
 <div>
+
 ✨ I want to build strong relationships with my clients.
+
 
 ✨ I believe that a good working relationship is built on mutual trust and respect.
 
