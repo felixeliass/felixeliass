@@ -220,8 +220,7 @@
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
 
 
-To comtact me.
-hirakawa0215@gmail.com
+
 
 
 <table>
