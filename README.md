@@ -38,6 +38,19 @@
 
 # My Certification #
 <img src="./assets/badge_10.png" alt="android" height="100" title="Android reference">
+<img src="./assets/badge_3.png" alt="android" height="100" title="Android reference">
+<img src="./assets/badge_4.png" alt="android" height="100" title="Android reference">
+<img src="./assets/badge_5.png" alt="android" height="100" title="Android reference">
+<img src="./assets/badge_6.png" alt="android" height="100" title="Android reference">
+<img src="./assets/badge_7.png" alt="android" height="100" title="Android reference">
+<img src="./assets/badge_8.png" alt="android" height="100" title="Android reference">
+
+
+
+
+
+
+
 # Main Skills #
 
 
